@@ -1,0 +1,1 @@
+{"sessionId":"582486","runId":"post-fix-verify","hypothesisId":"H1-H5","location":"AppServiceProvider.php:boot","message":"migrate DB env snapshot","data":{"env_DB_CONNECTION":"mysql","config_database_default":"mysql","has_connections_sql_key":false,"getenv_DB_CONNECTION":"mysql"},"timestamp":1775947254758}
